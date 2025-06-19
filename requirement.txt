@@ -1,0 +1,26 @@
+Python version 3.8+
+
+library installation comments
+pip install streamlit streamlit-webrtc opencv-python mediapipe av
+
+running comment
+streamlit run app.py
+
+Connect the mobile to the System for developer and de
+Step 1: Enable Developer Options on Android
+Open your Android phone settings.
+
+Scroll to About Phone.
+
+Tap Build Number 7 times quickly.
+
+You’ll see a message: “You are now a developer!”
+
+Step 2: Enable USB Debugging
+Go back to Settings.
+
+Open Developer Options (usually under System → Advanced).
+
+Enable USB Debugging.
+
+Confirm any security prompts.
